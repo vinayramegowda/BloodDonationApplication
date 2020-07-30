@@ -1,4 +1,4 @@
-# BloodDonationApplication
+# A User Management Application
 A full-stack .Net Core and ReactJS WebApplication.
 
 ## Key Implementaions
